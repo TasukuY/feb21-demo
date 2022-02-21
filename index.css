@@ -1,0 +1,25 @@
+/*
+"*" means all. *{} -> all the element.
+*{
+    background-color: orange;
+} -> make all backgorund orange
+*/
+
+p {
+    height: 30px;
+    width: 100px;
+    padding: 15px;
+    margin: 10px 15px 20px 25px;
+    background-color: teal;
+    color: aqua;
+}
+
+h1, h2, h4{
+    border: 3px dotted red;
+}
+
+h1{
+    font-size: 12pt;
+    border: 10px solid purple;
+    color: #5A7D7C;
+}
